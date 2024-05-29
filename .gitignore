@@ -1,0 +1,31 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables
+.env
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore operating system files
+.ICEauthority
+.Xauthority
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cache/
+.config/
+.local/
+.mozilla/
+.npm/
+.ssh/
+.vscode/
